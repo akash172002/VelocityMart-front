@@ -2,6 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## ADD ENV FILE ALSO 
+GOOGLE_FRONT_ID="YOUR_GOOGLE_AUTH_FRONT_KEY"
+GOOGLE_FRONT_SECRET="YOUR_GOOGLE_AUTH_SECRET_KEY"
+MONGODB_URI = "YOUR_MONGO_URL"
+
+STRIPE_SK='YOUR_STRIPE_KEY'
+
+STRIPE_PK='YOUR_STRIPE_KEY'
+
+NEXTAUTH_URL="http://localhost:4000"
+NEXT_PUBLIC_URL="http://localhost:4000"
+PUBLIC_URL="http://localhost:4000"
+
 First, run the development server:
 
 ```bash
